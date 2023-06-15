@@ -22,9 +22,9 @@ Pentru a utiliza acest proiect, urmați pașii de mai jos:
 # Contribuții
 Contribuțiile la acest proiect sunt binevenite. Dacă doriți să contribuiți, vă rog să urmați pașii de mai jos:
 
-# Creați un fork al proiectului.
-Efectuați modificările în branch-ul dvs. de lucru.
-Realizați un pull request către branch-ul principal al acestui proiect.
+1. Creați un fork al proiectului.
+2. Efectuați modificările în branch-ul dvs. de lucru.
+3. Realizați un pull request către branch-ul principal al acestui proiect.
 
 # Autor
 *David Gabriel*
