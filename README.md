@@ -1,0 +1,1 @@
+# magazin_local1
