@@ -20,7 +20,7 @@ Pentru a utiliza acest proiect, urmați pașii de mai jos:
 4. Salvarea modificărilor în fișierele CSV.
 
 # Contribuții
-Contribuțiile la acest proiect sunt binevenite. Dacă doriți să contribuiți, vă rugăm să urmați pașii de mai jos:
+Contribuțiile la acest proiect sunt binevenite. Dacă doriți să contribuiți, vă rog să urmați pașii de mai jos:
 
 # Creați un fork al proiectului.
 Efectuați modificările în branch-ul dvs. de lucru.
